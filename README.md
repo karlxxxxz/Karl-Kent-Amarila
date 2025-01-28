@@ -1,6 +1,6 @@
 # First context for the Readme
-Gwapo ko kay pogi mn ko tanawn.
+First.
 
 
 # Second context I made
-mao ning kaduha.
+Second.
